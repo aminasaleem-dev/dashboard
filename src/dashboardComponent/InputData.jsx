@@ -16,7 +16,7 @@ const InputData = () => {
         />
         <button
           onClick={addList}
-          className="px-5 py-2 bg-indigo-500 text-white font-medium rounded-lg hover:bg-indigo-600 transition"
+          className="px-5 py-2 bg-indigo-700 text-white font-medium rounded-lg hover:bg-indigo-600 transition"
         >
           Add
         </button>
